@@ -1,4 +1,6 @@
 /* 
+! Source: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y
+
 Given 2 numbers 𝑁 and 𝑄, an array 𝐴 of 𝑁 number and 𝑄 number of pairs 𝐿, 𝑅. For each query 𝑄 print a single line that contains the summation of all numbers from index 𝐿 to index 𝑅.
 
 * Input:

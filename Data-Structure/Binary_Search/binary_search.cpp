@@ -1,4 +1,6 @@
 /*
+! Source: https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z
+
 Given 2 numbers 𝑁 and 𝑄, array A of N numbers and Q queries each one contains a number 𝑋.
 
 For each query print a single line that contains "found" if the number 𝑋 exists in array 𝐴 otherwise, print "not found".
